@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e2d7c30cfe67c184aaff67c4dae49198
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Brygada 1918
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f0d19380f272f13458999ea03b62ac3f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
